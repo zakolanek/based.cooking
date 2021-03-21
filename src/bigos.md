@@ -4,7 +4,7 @@ Bigos (Hunter's Stew)
 
 This dish is a long-simmered meat-and-sauerkraut stew that goes back centuries and is a national dish of Poland.
 
-![Bigos](pix/Bigos.webp)
+![Bigos](pix/bigos.webp)
 
 - ⏲️ Prep time: 3 hrs 45 mins 
 - 🍽️ Servings: 10
